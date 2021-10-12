@@ -3,7 +3,7 @@
 
 name = "Just Another Bear"
 license = "MIT"
-licenselink = "https://gitlab.com/pckcml/just-another-bear/blob/master/LICENSE"
+licenselink = "https://gitlab.com/pckcml/just-another-bear/-/blob/main/LICENSE"
 description = "A Hugo theme based on »Hugo ʕ•ᴥ•ʔ Bear Blog«. Free, lightweight, featuring just some additions that the author thought was lacking on the original."
 homepage = "https://gitlab.com/pckcml/just-another-bear"
 tags = ["blog", "responsive", "minimal", "seo", "clean", "simple", "light", "minimalist", "mobile", "fast", "white", "minimalistic", "reading", "dark mode"]
