@@ -27,4 +27,11 @@
   <a href="{{ .Permalink }}">#{{ .LinkTitle }}</a>
   {{ end }}
 </p>
+
+{{ if (.Params.comments) }}
+<div>
+    {{- partial "comments.html" . -}}
+</div>
+{{ end }}
+
 {{ end }}
